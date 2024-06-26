@@ -1,0 +1,150 @@
+﻿@using System.Data
+@model DataTable
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <style>
+        .alert-box {
+            color: #555;
+            border-radius: 10px;
+            font-family: Tahoma,Geneva,Arial,sans-serif;
+            font-size: 11px;
+            padding: 10px 10px 10px 36px;
+            margin: 10px;
+        }
+
+            .alert-box span {
+                font-weight: bold;
+                text-transform: uppercase;
+            }
+
+        .success {
+            background: #e9ffd9 no-repeat 10px 50%;
+            border: 1px solid #a6ca8a;
+        }
+
+        .notice {
+            background: #e3f7fc url('../../images/notice.png') no-repeat 10px 50%;
+            border: 1px solid #8ed9f6;
+        }
+       
+    </style>
+</head>
+<div class="card shadow border-0 mt-4" >
+    <div class="card-header  ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class=" text-black py-2">Branch List</h2>
+            </div>
+        </div>
+    </div>
+    @if (TempData["message"] != null)
+    {
+        <div class="alert alert-success">@TempData["message"]</div>
+    }
+    @if (TempData["Success1"] != null)
+    {
+
+        <div class="alert-box success"><span>success:</span>@TempData["Success1"]</div>
+    }
+    @if (TempData["Success2"] != null)
+    {
+
+        <div class="alert-box notice"><span>notice:</span>@TempData["Success2"]</div>
+    }
+    <form class="row align-items-end g-3 border border-2 rounded p-3 my-4" method="POST" asp-area="MST_Branch" asp-controller="MST_Branch" asp-action="Index" asp-route-filter="true">
+        <div class="col-12">
+            <h2>Filter</h2>
+            <hr />
+        </div>
+        <div class="col-md">
+            <label for="BranchName" class="form-label">Branch Name</label>
+            <input type="text" name="BranchName" class="form-control" id="BranchName" placeholder="e.g. India">
+        </div>
+        <div class="col-md">
+            <label for="BranchCode" class="form-label">Branch Code</label>
+            <input type="text" name="BranchCode" class="form-control" id="BranchCode" placeholder="e.g. Ind">
+        </div>
+        <div class="col-md">
+            <button type="submit" title="Search" class="btn btn-success w-100">Search <i class="bi bi-search"></i></button>
+        </div>
+    </form>
+    <div class="card-body p-4">
+        <div class="row pb-3">
+            <div class="col-3">
+                <div class="input-group">
+                    <input id="Sample_1" type="search" placeholder="Search Branch" class="form-control" />
+                    
+                </div>
+
+            </div>
+            <div class="col-9 text-end">
+                <a asp-controller="MST_Branch" asp-action="Create" class="btn btn-primary">
+                     Add Branch
+                </a>
+            </div>
+        </div>
+    </div>
+    <table align="center" class="table table-bordered table-striped">
+        <tr>
+        <th>Branch Name</th>
+        <th>Branch Code</th>
+        <th>Created</th>
+        <th>Modified</th>
+        <th>Actions</th>
+        <tbody id="Sample_2">
+                @foreach (DataRow dr in Model.Rows)
+                {
+                <tr>
+                    <td>@dr["BranchName"]</td>
+                    <td>@dr["BranchCode"]</td>
+                    <td>@Convert.ToDateTime(dr["Created"]).ToString("dd-MM-yy")</td>
+                    <td>@Convert.ToDateTime(dr["Modified"]).ToString("dd-MM-yy")</td>
+
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+
+                            <a asp-area="MST_Branch" asp-controller="MST_Branch" asp-action="Delete" asp-route-BranchID="@dr["BranchID"]" class="btn btn-danger mx-2" onclick=" return fun1()">
+                               Delete
+                            </a>
+
+                            <a asp-area="MST_Branch" asp-controller="MST_Branch" asp-action="Create" asp-route-BranchID="@dr["BranchID"]" class="btn btn-primary mx-2">
+                                 Edit
+                            </a>
+
+
+                        </div>
+                    </td>
+                </tr>
+
+                }
+        </tbody>
+        
+    </table>
+</div>
+
+
+
+@section Scripts
+    {
+    <script>
+        $(document).ready(function () {
+            $("#Sample_1").on("keyup", function () {
+                var value = $(this).val().toLowerCase();
+                $("#Sample_2 tr").filter(function () {
+                    $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+                });
+            });
+        });
+        function fun1() {
+            if (confirm("Are you sure you want to delete?")) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+    </script>
+}
+

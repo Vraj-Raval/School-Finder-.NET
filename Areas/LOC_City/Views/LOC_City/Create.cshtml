@@ -1,0 +1,94 @@
+﻿@using StudentDemo.Areas.LOC_City.Models;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model LOC_CityModel
+<div class="card shadow border-0 mt-4">
+    <div class="card-header  ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class=" text-black py-2">Add City</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form method="post" asp-controller="LOC_City" asp-action="Save" class="row">
+            <div class="border p-3 ">
+                <div class="form-floating py-2 col-12">
+                    <select class="form-control border-0 shadow" asp-for="CountryID" asp-items="@(new SelectList(ViewBag.CountryList,"CountryID","CountryName"))" onchange="fnOnStateChange();">
+                        <option value="">Select Country</option>
+                    </select>
+                    
+                    <label class="ms-2" >State Name</label>
+                 </div>
+                <div class="form-floating py-2 col-12">
+                    <select class="form-control border-0 shadow" asp-for="StateID" asp-items="@(new SelectList(ViewBag.StateList,"StateID","StateName"))">
+                        <option value="">Select State</option>
+                    </select>
+
+                    <label class="ms-2">Country Name</label>
+                </div>
+                @*@<div asp-validation-summary="ModelOnly"></div>*@
+                <div class="form-floating py-2 col-12">
+                    <input asp-for="CityID" hidden />
+                    <input type="text" class="form-control border-0 shadow" asp-for="CityName" />
+                    <label class="ms-2" asp-for="CityName"></label>
+                    <span asp-validation-for="CityName" class="text-danger"></span>
+                </div>
+                <div class=" form-floating py-2 col-12">
+                    <input type="text" class="form-control border-0 shadow" asp-for="CityCode" />
+                    <label class="ms-2" asp-for="CityCode"></label>
+                    <span asp-validation-for="CityCode" class="text-danger"></span>
+                </div>
+                
+                
+                <div class="row mt-3">
+                    <div class="col-6 col-md-3">
+                        <button type="submit" class="btn btn-primary form-control">Save</button>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <a asp-controller="LOC_City" asp-action="Index" class="btn btn-outline-primary border form-control">Back to list</a>
+                    </div>
+                </div>
+
+
+            </div>
+        </form>
+
+    </div>
+
+</div>
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+    <script>
+        function fnOnStateChange() {
+            var CountryID = $("#CountryID").val();
+            if (CountryID !== "") {
+                $("#StateID").empty();
+                $("#StateID").append($("<option></option>").val("").html("Select State")); 
+                $.ajax({
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    url: "@Url.Action("DropdownByCountry", "LOC_City")" + "?CountryID=" + CountryID, 
+                    data: {},
+                    dataType: "json", 
+                    success: function (Result) {
+                        $.each(Result, function (key, value) { 
+                            $("#StateID").append($("<option></option>").val(value.stateID).html(value.stateName));
+                        });
+                    },
+                    error: function (r) {
+                        alert("Error while loading combobox");
+                    }
+                });
+            } else {
+                $("#StateID").empty();
+                $("#StateID").append($("<option></option>").val("").html("Select State")); 
+            }
+        }
+    </script>
+
+}
+

@@ -1,0 +1,62 @@
+﻿@using StudentDemo.Areas.LOC_State.Models;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model LOC_StateModel
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class=" text-white py-2">Add State</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form method="post" asp-controller="LOC_State" asp-action="Save" class="row">
+            <div class="border p-3 ">
+                @*@<div asp-validation-summary="ModelOnly"></div>*@
+                <div class="form-floating py-2 col-12">
+
+                    <input asp-for="StateID" hidden />
+                    <select class="form-control border-0 shadow" asp-for="CountryID" asp-items="@(new SelectList(ViewBag.CountryList,"CountryID","CountryName"))">
+                        <option value="">Select Country</option>
+                    </select>
+
+                    <label class="ms-2">Country Name</label>
+                    
+                </div>
+                <div class="form-floating py-2 col-12">
+                    
+                    
+                    <input type="text" class="form-control border-0 shadow" asp-for="StateName" />
+                    <label class="ms-2" asp-for="StateName"></label>
+                    <span asp-validation-for="StateName" class="text-danger"></span>
+                </div>
+                <div class=" form-floating py-2 col-12">
+                    <input type="text" class="form-control border-0 shadow" asp-for="StateCode" />
+                    <label class="ms-2" asp-for="StateCode"></label>
+                    <span asp-validation-for="StateCode" class="text-danger"></span>
+                </div>
+                
+                <div class="row mt-3">
+                    <div class="col-6 col-md-3">
+                        <button type="submit" class="btn btn-primary form-control">Save</button>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <a asp-controller="LOC_State" asp-action="Index" class="btn btn-outline-primary border form-control">Back to list</a>
+                    </div>
+                </div>
+
+
+            </div>
+        </form>
+
+    </div>
+
+</div>
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+

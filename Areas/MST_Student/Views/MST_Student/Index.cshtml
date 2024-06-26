@@ -1,0 +1,155 @@
+﻿@using System.Data
+@model DataTable
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h3>@TempData["Success"]</h3>
+<div class="card shadow border-0 mt-4 " style="overflow:auto;">
+    <div class="card-header ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class=" text-black py-2">Student List</h2>
+            </div>
+        </div>
+    </div>
+    @if (TempData["message"] != null)
+    {
+        <div class="alert alert-success">@TempData["message"]</div>
+    }
+    @if (TempData["Success1"] != null)
+    {
+
+        <div class="alert-box success"><span>success:</span>@TempData["Success1"]</div>
+    }
+    @if (TempData["Success2"] != null)
+    {
+
+        <div class="alert-box notice"><span>notice:</span>@TempData["Success2"]</div>
+    }
+    <form class="row g-3 border border-2 rounded p-3 my-4" method="POST" asp-area="MST_Student" asp-controller="MST_Student" asp-action="Index" asp-route-filter="true">
+        <div class="col-12">
+            <h2>Filter</h2>
+            <hr />
+        </div>
+        <div class="col-md-6">
+            <label for="StudentName" class="form-label">Student Name</label>
+            <input type="text" name="StudentName" class="form-control" id="StudentName" placeholder="e.g. Abc">
+        </div>
+        <div class="col-md-6">
+            <label for="Email" class="form-label">Email</label>
+            <input type="text" name="Email" class="form-control" id="Email" placeholder="e.g. abc123@gmail">
+        </div>
+
+        <div class="col-md-6">
+            <label for="BranchName" class="form-label">Branch Name</label>
+            <input type="text" name="BranchName" class="form-control" id="BranchName" placeholder="e.g. Computer Science">
+        </div>
+        <div class="col-12">
+            <button type="submit" title="Search" class="btn btn-success w-100">Search <i class="bi bi-search"></i></button>
+        </div>
+    </form>
+    <div class="card-body p-4">
+        <div class="row pb-3">
+            <div class="col-3">
+                <div class="input-group">
+                    <input id="Sample_1" type="search" placeholder="Search Student" class="form-control" />
+                    
+                </div>
+
+            </div>
+            <div class="col-9 text-end">
+                <a asp-controller="MST_Student" asp-action="Create" class="btn btn-primary">
+                     Add Student
+                </a>
+            </div>
+        </div>
+    </div>
+    <table class="table table-bordered table-striped">
+        <tr>
+        <thead>
+        <th>StudentName</th>
+        <th>BranchName</th>
+        <th>CityName</th>
+        <th>MobileNoStudent</th>
+        <th>MobileNoFather</th>
+        <th>Email</th>
+        <th>Address</th>
+        <th>BirthDate</th>
+        <th>Age</th>
+        <th>ISActive</th>
+        <th>Gender</th>
+        <th>Password</th>
+        <th>Created</th>
+        <th>Modified</th>
+        <th></th>
+        </thead>
+
+
+        <tbody id="Sample_2">
+                @foreach (DataRow dr in Model.Rows)
+                {
+                <tr>
+
+                    <td>@dr["StudentName"]</td>
+                    
+                    <td>@dr["BranchName"]</td>
+                    
+                    <td>@dr["CityName"]</td>
+                    <td>@dr["MobileNoStudent"]</td>
+                    <td>@dr["MobileNoFather"]</td>
+                    <td>@dr["Email"]</td>
+                    <td>@dr["Address"]</td>
+                    <td>@Convert.ToDateTime(dr["BirthDate"]).ToString("dd-MM-yy")</td>
+                    <td>@dr["Age"]</td>
+                    <td>@dr["ISActive"]</td>
+                    <td>@dr["Gender"]</td>
+                    <td>@dr["Password"]</td>
+                    <td>@Convert.ToDateTime(dr["Created"]).ToString("dd-MM-yy")</td>
+                    <td>@Convert.ToDateTime(dr["Modified"]).ToString("dd-MM-yy")</td>
+                    
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+
+                            <a asp-area="MST_Student" asp-controller="MST_Student" asp-action="Delete" asp-route-StudentID="@dr["StudentID"]" class="btn btn-danger mx-2" onclick=" return fun1()">
+                                 Delete
+                            </a>
+
+                            <a asp-area="MST_Student" asp-controller="MST_Student" asp-action="Create" asp-route-StudentID="@dr["StudentID"]" class="btn btn-primary mx-2">
+                                 Edit
+                            </a>
+
+
+                        </div>
+                    </td>
+                </tr>
+
+                }
+        </tbody>
+        </tr>
+    </table>
+</div>
+
+
+</div>
+@section Scripts
+    {
+    <script>
+        $(document).ready(function () {
+            $("#Sample_1").on("keyup", function () {
+                var value = $(this).val().toLowerCase();
+                $("#Sample_2 tr").filter(function () {
+                    $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+                });
+            });
+        });
+        function fun1() {
+            if (confirm("Are you sure you want to delete?")) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+    </script>
+}
+

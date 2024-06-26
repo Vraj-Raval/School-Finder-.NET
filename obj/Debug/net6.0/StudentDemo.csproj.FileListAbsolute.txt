@@ -1,0 +1,976 @@
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.AssemblyReference.cache
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.AssemblyInfoInputs.cache
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.AssemblyInfo.cs
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.CoreCompileInputs.cache
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.MvcApplicationPartsAssemblyInfo.cache
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.RazorAssemblyInfo.cache
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.RazorAssemblyInfo.cs
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\appsettings.Development.json
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\appsettings.json
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.staticwebassets.runtime.json
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.exe
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.deps.json
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.runtimeconfig.json
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.pdb
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Humanizer.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\MessagePack.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Build.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Common.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.StudentDemo.Microsoft.AspNetCore.StaticWebAssets.props
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentDemo.props
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentDemo.props
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentDemo.props
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.pack.json
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.build.json
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.development.json
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\bundle\StudentDemo.styles.css
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\projectbundle\StudentDemo.bundle.scp.css
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.CopyComplete
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.dll
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\refint\StudentDemo.dll
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.pdb
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.genruntimeconfig.cache
+F:\.net\StudentDemo\StudentDemo\obj\Debug\net6.0\ref\StudentDemo.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.Odbc.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.OleDb.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Unity.Abstractions.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\Unity.Interception.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\.net\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\appsettings.Development.json
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\appsettings.json
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.staticwebassets.runtime.json
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.exe
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.deps.json
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.runtimeconfig.json
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.pdb
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Humanizer.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\MessagePack.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Common.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.Odbc.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.OleDb.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Unity.Abstractions.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\Unity.Interception.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.AssemblyReference.cache
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.AssemblyInfoInputs.cache
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.AssemblyInfo.cs
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.CoreCompileInputs.cache
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.RazorAssemblyInfo.cache
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.RazorAssemblyInfo.cs
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.StudentDemo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentDemo.props
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentDemo.props
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentDemo.props
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.build.json
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.development.json
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\bundle\StudentDemo.styles.css
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\projectbundle\StudentDemo.bundle.scp.css
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.CopyComplete
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\refint\StudentDemo.dll
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.pdb
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.genruntimeconfig.cache
+E:\Programming\StudentDemo (2)\StudentDemo\StudentDemo\obj\Debug\net6.0\ref\StudentDemo.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\appsettings.Development.json
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\appsettings.json
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.staticwebassets.runtime.json
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.exe
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.deps.json
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.runtimeconfig.json
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.pdb
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Humanizer.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\MessagePack.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Common.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.Odbc.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.OleDb.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Unity.Abstractions.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\Unity.Interception.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.AssemblyReference.cache
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.AssemblyInfoInputs.cache
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.AssemblyInfo.cs
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.CoreCompileInputs.cache
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.RazorAssemblyInfo.cache
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.RazorAssemblyInfo.cs
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.StudentDemo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentDemo.props
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentDemo.props
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentDemo.props
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.build.json
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.development.json
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\bundle\StudentDemo.styles.css
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\projectbundle\StudentDemo.bundle.scp.css
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.CopyComplete
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.dll
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\refint\StudentDemo.dll
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.pdb
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.genruntimeconfig.cache
+E:\Programming\StudentDemo\StudentDemo\obj\Debug\net6.0\ref\StudentDemo.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\appsettings.Development.json
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\appsettings.json
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.staticwebassets.runtime.json
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.exe
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.deps.json
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.runtimeconfig.json
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\StudentDemo.pdb
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Humanizer.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\MessagePack.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Common.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.Odbc.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.OleDb.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Unity.Abstractions.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\Unity.Interception.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.AssemblyReference.cache
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.AssemblyInfoInputs.cache
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.AssemblyInfo.cs
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.CoreCompileInputs.cache
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.RazorAssemblyInfo.cache
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.RazorAssemblyInfo.cs
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.StudentDemo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.build.StudentDemo.props
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StudentDemo.props
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StudentDemo.props
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.build.json
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\staticwebassets.development.json
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\bundle\StudentDemo.styles.css
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\scopedcss\projectbundle\StudentDemo.bundle.scp.css
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.csproj.CopyComplete
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\refint\StudentDemo.dll
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.pdb
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\StudentDemo.genruntimeconfig.cache
+E:\Programming\.NET\CRUD Project\StudentDemo\StudentDemo\obj\Debug\net6.0\ref\StudentDemo.dll
